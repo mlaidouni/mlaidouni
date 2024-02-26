@@ -37,5 +37,5 @@
 <br><br>
 
 <div>
-  <img src="https://github-readme-stats-kmzx.vercel.app/api/top-langs?username=mlaidouni&locale=en&theme=dark&exclude_repo=github-readme-stats,me,administrative.documents,stable.roommates.problem&hide=rich%20text%20format,standard%20ml,makefile,d,shell&langs_count=5&layout=compact&card_width=700" alt="Most Used Languages" style="width: 100%;">
+  <img src="https://github-readme-stats-kmzx.vercel.app/api/top-langs?username=mlaidouni&locale=en&theme=dark&exclude_repo=github-readme-stats,me,administrative.documents,stable.roommates.problem&hide=rich%20text%20format,standard%20ml,makefile,d,shell&langs_count=5&layout=normal&card_width=700" alt="Most Used Languages" style="width: 100%;">
 </div>
