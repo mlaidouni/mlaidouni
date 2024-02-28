@@ -37,8 +37,8 @@
 <br><br>
 
 <a href="https://github.com/mlaidouni">
-  <img height=200 align="center" src="https://github-readme-stats-kmzx.vercel.app/api?username=mlaidouni&locale=fr&theme=karasuno&rank_icon=github&include_all_commits_true&count_private=true&show_icons=true&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-kmzx.vercel.app/api?username=mlaidouni&locale=fr&theme=karasuno&rank_icon=github&include_all_commits_true&count_private=true&show_icons=true&card_width=250" />
 </a>
 <a href="https://github.com/mlaidouni">
-  <img height=200 align="center" src="https://github-readme-stats-kmzx.vercel.app/api/top-langs?username=mlaidouni&theme=karasuno&size_weight=0.6&count_weight=0.3&exclude_repo=github.readme.stats&hide=rich%20text%20format,standard%20ml,makefile,d,shell&layout=compact&langs_count=6&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-kmzx.vercel.app/api/top-langs?username=mlaidouni&theme=karasuno&size_weight=0.6&count_weight=0.3&exclude_repo=github.readme.stats&hide=rich%20text%20format,standard%20ml,makefile,d,shell&layout=compact&langs_count=6&card_width=250" />
 </a>
