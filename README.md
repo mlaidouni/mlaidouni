@@ -13,6 +13,8 @@
         <img src="https://img.shields.io/badge/JavaScript-373644.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
         <img src="https://img.shields.io/badge/jquery-373644.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD" alt="jQuery">
         <img src="https://img.shields.io/badge/Node.js-373644.svg?style=for-the-badge&logo=node.js&logoColor=43853D" alt="Node.js">
+        <img src="https://img.shields.io/badge/bootstrap-373644.svg?style=for-the-badge&logo=bootstrap&logoColor=%238511FA" alt="Node.js">
+        <img src="https://img.shields.io/badge/express.js-373644.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Node.js">
         <br>
         <img src="https://img.shields.io/badge/postgres-373644.svg?style=for-the-badge&logo=postgresql&logoColor=008bb9" alt="Postgres">
         <img src="https://img.shields.io/badge/Gradle-373644.svg?style=for-the-badge&logo=Gradle&logoColor=0b5c6e" alt="Gradle">
