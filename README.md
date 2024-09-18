@@ -3,8 +3,10 @@
 <div style="display: grid; grid-template-columns: 61% 39%;">
     <div>
         <h3>💻・Languages・Frameworks</h3>
-        <img src="https://img.shields.io/badge/Java-373644?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"> 
+        <img src="https://img.shields.io/badge/Java-373644.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"> 
+        <img src="https://img.shields.io/badge/Kotlin-373644.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin"> 
         <img src="https://custom-icon-badges.herokuapp.com/badge/C-373644.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=03599C" alt="C">
+        <img src="https://custom-icon-badges.herokuapp.com/badge/C++-373644.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2300599C" alt="C++">
         <img src="https://img.shields.io/badge/OCaml-373644.svg?style=for-the-badge&logo=ocaml&logoColor=23E98407" alt="OCaml">
         <img src="https://img.shields.io/badge/python-373644?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
         <br>
@@ -25,17 +27,26 @@
     </div>
     <div>
         <h3>🛠・IDE・Tools・OS</h3>
-        <img src="https://img.shields.io/badge/VS%20Code-373644.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7" alt="Visual Studio Code"> 
+        <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-373644.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7.svg" alt="Visual Studio Code"> 
         <img src="https://img.shields.io/badge/Android%20Studio-373644.svg?style=for-the-badge&logo=android-studio&logoColor=" alt="Android Studio">
+        <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-373644.svg?style=for-the-badge&logo=visual-studio&logoColor=0078d7.svg" alt="Visual Studio Code"> 
         <br>
         <img src="https://img.shields.io/badge/GIT-373644?style=for-the-badge&logo=git" alt="Git">
         <img src="https://img.shields.io/badge/github-373644?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         <img src="https://img.shields.io/badge/gitlab-373644?style=for-the-badge&logo=gitlab" alt="GitLab">
+        <img src="https://img.shields.io/badge/GitLab%20EE%20(Server)-373644?style=for-the-badge&logo=gitlab" alt="GitLab EE (Server)">
         <br>
         <img src="https://img.shields.io/badge/Linux-373644?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
         <img src="https://img.shields.io/badge/Ubuntu-373644?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu">
+        <img src="https://img.shields.io/badge/GNOME%20Terminal-373644?style=for-the-badge&logo=gnometerminal&logoColor=fff" alt="GNOME Terminal">
+        <br>
+        <img src="https://img.shields.io/badge/GitLab%20CI-373644?style=for-the-badge&logo=gitlab&logoColor=FC6D26.svg" alt="GitLab CI">
+        <img src="https://img.shields.io/badge/vercel-373644?style=for-the-badge&logo=vercel&logoColor=%23000000.svg" alt="Vercel">
+        <br>
+        <img src="https://img.shields.io/badge/Canva-373644?style=for-the-badge&logo=Canva&logoColor=%2300C4CC" alt="Canva">
     </div>
 </div>
+
 <br><br>
 
 <a href="https://github.com/mlaidouni">
